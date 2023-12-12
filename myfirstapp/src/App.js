@@ -6,9 +6,7 @@ import Textapp from './Components/Textapp';
 function App() {
   return (
     <>
-    {/* <Navbarr gaurav= "mynavbar"></Navbarr>
-    <Accordian></Accordian> */}
-    <Textapp></Textapp>
+    <h1>this is a heading</h1>
     </>
   );
 }
